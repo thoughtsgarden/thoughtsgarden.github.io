@@ -1,4 +1,4 @@
-# Thoughts Garden — Privacy Policy
+# Privacy Policy
 
 **Effective date:** October 16, 2026
 

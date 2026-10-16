@@ -1,4 +1,4 @@
-# Thoughts Garden — Terms of Use (EULA)
+# Terms of Use (EULA)
 
 **Effective date:** October 16, 2026
 
