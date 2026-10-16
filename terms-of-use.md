@@ -2,8 +2,8 @@
 
 **Effective date:** October 16, 2026
 
-These terms govern your use of Thoughts Garden ("the app"), published by [DEVELOPER LEGAL NAME],
-[COUNTRY] ("we", "us"). By downloading or using the app you agree to them.
+These terms govern your use of Thoughts Garden ("the app"), published by Daniel Diaz,
+Colombia ("we", "us"). By downloading or using the app you agree to them.
 
 The app is licensed to you under Apple's
 [Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
