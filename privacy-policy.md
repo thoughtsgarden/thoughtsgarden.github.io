@@ -1,8 +1,8 @@
 # Thoughts Garden — Privacy Policy
 
-**Effective date:** [EFFECTIVE DATE]
+**Effective date:** October 16, 2026
 
-Thoughts Garden ("the app") is published by [DEVELOPER LEGAL NAME], [COUNTRY] ("we", "us").
+Thoughts Garden ("the app") is published by Daniel Diaz, Colombia ("we", "us").
 This policy explains what data the app handles, where it goes and what you can do about it.
 
 ## The short version
@@ -77,7 +77,7 @@ Deleting your data does not cancel your subscription. Manage it in the App Store
 
 ## 7. Your rights
 
-Depending on where you live (for example under the GDPR or CCPA), you may have the right to access,
+Depending on where you live (for example under Colombia's Law 1581 of 2012, the GDPR or the CCPA), you may have the right to access,
 correct or delete your personal data. Because your content lives on your device and in your iCloud,
 you control it directly in the app. For anything else, contact us at the address below.
 
@@ -92,4 +92,4 @@ noted in the app's release notes.
 
 ## 10. Contact
 
-[CONTACT EMAIL]
+[danydeveloper99@gmail.com](mailto:danydeveloper99@gmail.com)

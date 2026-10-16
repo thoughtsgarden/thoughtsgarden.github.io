@@ -1,6 +1,6 @@
 # Thoughts Garden — Terms of Use (EULA)
 
-**Effective date:** [EFFECTIVE DATE]
+**Effective date:** October 16, 2026
 
 These terms govern your use of Thoughts Garden ("the app"), published by [DEVELOPER LEGAL NAME],
 [COUNTRY] ("we", "us"). By downloading or using the app you agree to them.
@@ -66,4 +66,4 @@ effective date. Continuing to use the app means you accept the updated terms.
 
 ## 8. Contact
 
-[CONTACT EMAIL]
+[danydeveloper99@gmail.com](mailto:danydeveloper99@gmail.com)
