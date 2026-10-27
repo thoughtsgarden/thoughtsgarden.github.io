@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** October 16, 2026
+**Effective date:** October 27, 2026
 
 Thoughts Garden ("the app") is published by Daniel Diaz, Colombia ("we", "us").
 This policy explains what data the app handles, where it goes and what you can do about it.
@@ -67,8 +67,9 @@ Reminders are local notifications scheduled on your device. No notification data
 
 Your data stays on your device and in your iCloud until you delete it.
 
-- **Profile → Delete all my data** erases every thought, leaf, tree and review from this device and
-  from your iCloud.
+- **Profile → Delete all my data** erases every thought, leaf, tree and review from this device at
+  once, and from your iCloud the next time the device syncs (it needs a network connection and to be
+  signed in to iCloud).
 - Deleting the app removes the local copy; iCloud data can also be removed in your device's iCloud
   settings.
 - If your subscription ends, your garden is not deleted.
