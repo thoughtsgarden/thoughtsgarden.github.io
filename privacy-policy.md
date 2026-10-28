@@ -93,4 +93,4 @@ noted in the app's release notes.
 
 ## 10. Contact
 
-[danydeveloper99@gmail.com](mailto:danydeveloper99@gmail.com)
+[support.thoughtsgarden@gmail.com](mailto:support.thoughtsgarden@gmail.com)
