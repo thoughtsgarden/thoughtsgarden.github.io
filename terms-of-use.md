@@ -66,4 +66,4 @@ effective date. Continuing to use the app means you accept the updated terms.
 
 ## 8. Contact
 
-[danydeveloper99@gmail.com](mailto:danydeveloper99@gmail.com)
+[support.thoughtsgarden@gmail.com](mailto:support.thoughtsgarden@gmail.com)
