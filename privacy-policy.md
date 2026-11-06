@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** October 27, 2026
+**Effective date:** November 6, 2026
 
 Thoughts Garden ("the app") is published by Daniel Diaz, Colombia ("we", "us").
 This policy explains what data the app handles, where it goes and what you can do about it.
@@ -9,7 +9,8 @@ This policy explains what data the app handles, where it goes and what you can d
 
 - Your thoughts live on your device and in your own private iCloud. We never see them.
 - When you transform a thought, only that thought's text is sent to an AI model to write the reframes. It is not used to train models.
-- There are no accounts, no ads, no analytics and no tracking.
+- There are no accounts, no ads and no tracking. The Firebase services the app relies on may collect
+  limited diagnostic data, which is not linked to your identity.
 - You can delete everything from Profile at any time.
 
 ## 1. Data stored on your device and in your iCloud
@@ -56,7 +57,9 @@ linked to your identity by us. See [RevenueCat's privacy policy](https://www.rev
 ## 4. What we do not do
 
 - No account, login, email or phone number is required.
-- No analytics, advertising or tracking SDKs. We do not track you across apps or websites.
+- We do not add analytics, advertising or tracking SDKs, and we do not track you across apps or websites.
+  Firebase App Check and Remote Config may send Google limited diagnostic data about how those services
+  perform. It is not linked to your identity and it is not used for advertising.
 - We do not sell or share personal data.
 
 ## 5. Notifications
