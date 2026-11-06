@@ -2,3 +2,4 @@
 
 - [Privacy Policy](./privacy-policy.md)
 - [Terms of Use (EULA)](./terms-of-use.md)
+- [Support](./support.md)
